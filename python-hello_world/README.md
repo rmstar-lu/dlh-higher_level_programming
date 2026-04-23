@@ -56,3 +56,11 @@ First 3 letters: Hol
 Last 2 letters: on
 Middle word: olberto
 ```
+
+## `8-concat_edges.py`
+
+Prints exactly:
+
+```
+object-oriented programming with Python
+```
