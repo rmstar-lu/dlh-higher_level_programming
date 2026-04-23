@@ -46,3 +46,13 @@ Prints exactly:
 ```
 Welcome to Holberton School!
 ```
+
+## `7-edges.py`
+
+Prints exactly:
+
+```
+First 3 letters: Hol
+Last 2 letters: on
+Middle word: olberto
+```
