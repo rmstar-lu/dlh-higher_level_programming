@@ -30,3 +30,11 @@ Float: 3.14
 
 Or whatever is the value of number, with 2 digits of precision.
 
+## `5-print_string.py`
+
+Prints exactly:
+
+```
+Holberton SchoolHolberton SchoolHolberton School
+Holberton
+```
