@@ -3,3 +3,7 @@
 ## `0-positive_or_negative.py`
 
 Generates a random number and checks if it is positive, zero or negative.
+
+## `1-last_digit.py`
+
+Generates a random number and performs artificially intelligent rocket science on it.
