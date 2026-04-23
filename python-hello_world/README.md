@@ -19,3 +19,14 @@ Prints exactly:
 ```
 
 Note the spelling of "street", not "Street"!
+
+## `4-print_float.py`
+
+Prints exactly:
+
+```
+Float: 3.14
+```
+
+Or whatever is the value of number, with 2 digits of precision.
+
