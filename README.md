@@ -6,3 +6,6 @@ This repository contains the following projects:
 
 The first of the python projects, see README.md there.
 
+## python-if_else_loops_functions
+
+As the directory name says, see README.md.
