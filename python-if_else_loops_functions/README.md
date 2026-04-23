@@ -11,3 +11,7 @@ Generates a random number and performs artificially intelligent rocket science o
 ## `2-print_alphabet.py`
 
 Prints the alphabet in lowercase using a loop! Look ma, no hands!
+
+## `3-print_alphabt.py`
+
+Prints the alphabet in lowercase omitting the letters q and e.
