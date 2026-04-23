@@ -15,3 +15,7 @@ Prints the alphabet in lowercase using a loop! Look ma, no hands!
 ## `3-print_alphabt.py`
 
 Prints the alphabet in lowercase omitting the letters q and e.
+
+## `4-print_hexa.py`
+
+Prints the numbers from 0 to 98 in decimal and hex.
