@@ -38,3 +38,11 @@ Prints exactly:
 Holberton SchoolHolberton SchoolHolberton School
 Holberton
 ```
+
+## `6-concat.py`
+
+Prints exactly:
+
+```
+Welcome to Holberton School!
+```
