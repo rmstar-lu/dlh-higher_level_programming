@@ -39,3 +39,7 @@ Defines a function to print a string in uppercase.
 ## `9-print_last_digit.py`
 
 Defines a function to print the last digit of a number and return it.
+
+## `10-add.py`
+
+Defines a function to add two integer numbers.
