@@ -11,3 +11,7 @@ Imports 4 functions from the module calculator_1.py and does some calculations i
 ## `2-args.py`
 
 Prints the program's arguments if called interactively.
+
+## `3-infinite_add.py`
+
+Adds the program's arguments as integers if called interactively.
