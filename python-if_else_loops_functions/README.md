@@ -23,3 +23,7 @@ Prints the numbers from 0 to 98 in decimal and hex.
 ## `5-print_comb2.py`
 
 Prints the numbers from 0 to 99 as comma-separated list.
+
+## `6-print_comb3.py`
+
+Prints all unique combinations of 2 single digits in ascending order, when order of digits is irrelevant.
