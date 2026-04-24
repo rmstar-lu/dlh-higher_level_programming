@@ -31,3 +31,8 @@ Prints all unique combinations of 2 single digits in ascending order, when order
 ## `7-islower.py`
 
 Defines a function to check if a character is lowercase.
+
+## `8-uppercase.py`
+
+Defines a function to print a string in uppercase.
+
