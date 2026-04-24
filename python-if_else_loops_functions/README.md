@@ -27,3 +27,7 @@ Prints the numbers from 0 to 99 as comma-separated list.
 ## `6-print_comb3.py`
 
 Prints all unique combinations of 2 single digits in ascending order, when order of digits is irrelevant.
+
+## `7-islower.py`
+
+Defines a function to check if a character is lowercase.
