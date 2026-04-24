@@ -15,3 +15,7 @@ Prints the program's arguments if called interactively.
 ## `3-infinite_add.py`
 
 Adds the program's arguments as integers if called interactively.
+
+## `5-variable_load_5.py`
+
+Prints the value of a variable imported from variable_load_5.py if called interactively.
