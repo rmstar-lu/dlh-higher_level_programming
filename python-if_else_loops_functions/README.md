@@ -19,3 +19,7 @@ Prints the alphabet in lowercase omitting the letters q and e.
 ## `4-print_hexa.py`
 
 Prints the numbers from 0 to 98 in decimal and hex.
+
+## `5-print_comb2.py`
+
+Prints the numbers from 0 to 99 as comma-separated list.
