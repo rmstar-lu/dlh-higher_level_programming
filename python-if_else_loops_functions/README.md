@@ -36,3 +36,6 @@ Defines a function to check if a character is lowercase.
 
 Defines a function to print a string in uppercase.
 
+## `9-print_last_digit.py`
+
+Defines a function to print the last digit of a number and return it.
