@@ -47,3 +47,7 @@ Defines a function to add two integer numbers.
 ## `11-pow.py`
 
 Defines a function to raise a number to the power of another number.
+
+## `12-fizzbuzz.py`
+
+Defines a function to print the numbers of 1 to 100 followed by a space, replacing multiples of 3 by Fizz, multiples of 5 by Buzz and multiples of both 3 and 5 by FizzBuzz.
