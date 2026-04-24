@@ -43,3 +43,7 @@ Defines a function to print the last digit of a number and return it.
 ## `10-add.py`
 
 Defines a function to add two integer numbers.
+
+## `11-pow.py`
+
+Defines a function to raise a number to the power of another number.
