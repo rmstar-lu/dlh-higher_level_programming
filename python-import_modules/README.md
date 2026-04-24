@@ -7,3 +7,7 @@ Imports a function add from the module add_0.py and uses it to add two numbers i
 ## `1-calculation.py`
 
 Imports 4 functions from the module calculator_1.py and does some calculations if called interactively.
+
+## `2-args.py`
+
+Prints the program's arguments if called interactively.
