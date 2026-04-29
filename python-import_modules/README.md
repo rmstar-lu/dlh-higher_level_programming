@@ -19,3 +19,22 @@ Adds the program's arguments as integers if called interactively.
 ## `5-variable_load_5.py`
 
 Prints the value of a variable imported from variable_load_5.py if called interactively.
+
+## `100-my-calculator,py`
+
+Imports 4 functions from the module calculator_1.py and does some calculations if called interactively.
+
+## `101-easy_print.py`
+
+Prints `#pythoniscool` using os.write().
+
+## `102-magic_calculation.py`
+
+Probably wrong.
+
+## `103-fast_alphabet.py`
+
+Prints the alphabet without using a loop.
+
+
+
